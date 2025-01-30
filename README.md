@@ -1,6 +1,3 @@
-**Welcome to the coding realm of Dipankar Mitra! Now, if you're here wondering why you're on a quest through this GitHub haven, relax—it seems everyone's got their eyes on my digital trail. Let's keep the cyber-chatter to a minimum, shall we? Dive into the code, and let's build some tech magic together!**
-
-## About Me 🌟
 
 Curious to learn more about me? Keep scrolling. Otherwise, dive straight into the tech stack I'm currently weaving magic with.
 
