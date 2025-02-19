@@ -1,9 +1,6 @@
 ## Hello, I am Dipankar (You can call me ** Mitra **)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show_icons=true&theme=radical)
 ### 🔗 Connect with me
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-mitra-/)
