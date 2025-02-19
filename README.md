@@ -1,7 +1,7 @@
-## Hello, I am Dipankar (You can call me **Mitra**)
-
+## Hello, I am Dipankar 👋
 <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show_icons=true&theme=radical"/>
 <img alt="Top Langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMGA-WAY&layout=compact&show_icons=true&theme=radical"/>
+
 
 
 ### 🔗 Connect with me
