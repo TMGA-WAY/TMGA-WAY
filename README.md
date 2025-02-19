@@ -1,7 +1,7 @@
-## Hello, I am Dipankar (You can call me ** Mitra **)
+## Hello, I am Dipankar (You can call me **Mitra**)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TMGA-WAY&layout=donut)](https://github.com/TMGA-WAY/github-readme-stats)
+<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show_icons=true&theme=radical"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMGA-WAY&layout=compact"/>
 ### 🔗 Connect with me
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-mitra-/)
