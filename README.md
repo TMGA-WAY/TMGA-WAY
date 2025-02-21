@@ -2,6 +2,9 @@
 <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TMGA-WAY&show_icons=true&theme=radical"/>
 <img alt="Top Langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMGA-WAY&layout=compact&show_icons=true&theme=radical"/>
 
+<div align="center">
+  ![snake gif](https://github.com/TMGA-WAY/TMGA-WAY/blob/output/github-snake-dark.svg)
+</div>
 
 
 ### 🔗 Connect with me
