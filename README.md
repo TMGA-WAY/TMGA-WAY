@@ -3,7 +3,7 @@
 <img alt="Top Langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMGA-WAY&layout=compact&show_icons=true&theme=radical"/>
 
 <div align="center">
-  ![snake gif](https://github.com/TMGA-WAY/TMGA-WAY/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/TMGA-WAY/TMGA-WAY/blob/output/github-snake-dark.svg"/>
 </div>
 
 
